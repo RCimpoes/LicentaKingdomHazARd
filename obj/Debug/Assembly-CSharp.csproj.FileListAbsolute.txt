@@ -1,0 +1,860 @@
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Boo.Lang.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\mscorlib.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\System.Core.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\System.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\System.Xml.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\TextMeshPro-2017.3-Editor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\TextMeshPro-2017.3-Runtime.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.Locator.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEditor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.WebModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityScript.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.Cecil.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEditor.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.WebModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Licenta - CurrentVersion\BackToBasics v2.1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Licenta - CurrentVersion\BackToBasics v2.1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Licenta - CurrentVersion\BackToBasics v2.1\obj\Debug\Assembly-CSharp.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.1\obj\Debug\Assembly-CSharp.pdb
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Boo.Lang.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\mscorlib.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\System.Core.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\System.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\System.Xml.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\TextMeshPro-2017.3-Editor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\TextMeshPro-2017.3-Runtime.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.Locator.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEditor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.WebModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityScript.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.Cecil.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEditor.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.WebModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Licenta - CurrentVersion\BackToBasics v2.2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Licenta - CurrentVersion\BackToBasics v2.2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Licenta - CurrentVersion\BackToBasics v2.2\obj\Debug\Assembly-CSharp.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.2\obj\Debug\Assembly-CSharp.pdb
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\mscorlib.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\System.Core.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\System.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\System.Xml.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\TextMeshPro-2017.3-Editor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\TextMeshPro-2017.3-Runtime.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.Locator.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEditor.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.WebModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityScript.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.Cecil.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEditor.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.WebModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Licenta - CurrentVersion\BackToBasics v2.3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Licenta - CurrentVersion\BackToBasics v2.3\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Licenta - CurrentVersion\BackToBasics v2.3\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Licenta - CurrentVersion\BackToBasics v2.3\obj\Debug\Assembly-CSharp.dll
+C:\Licenta - CurrentVersion\BackToBasics v2.3\obj\Debug\Assembly-CSharp.pdb
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\mscorlib.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\System.Core.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\System.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\System.Xml.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\TextMeshPro-2017.3-Editor.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\TextMeshPro-2017.3-Runtime.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.Locator.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEditor.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.WebModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityScript.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.Cecil.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.DataContract.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEditor.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.WebModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Licenta\BackToBasics v2.3\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Licenta\BackToBasics v2.3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Licenta\BackToBasics v2.3\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Licenta\BackToBasics v2.3\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Licenta\BackToBasics v2.3\obj\Debug\Assembly-CSharp.dll
+E:\Licenta\BackToBasics v2.3\obj\Debug\Assembly-CSharp.pdb
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Boo.Lang.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\mscorlib.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\System.Core.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\System.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\System.Xml.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\TextMeshPro-2017.3-Editor.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\TextMeshPro-2017.3-Runtime.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.Locator.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEditor.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.WebModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityScript.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.Cecil.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.DataContract.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEditor.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.WebModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\obj\Debug\Assembly-CSharp.dll
+C:\Licenta - CurrentVersion\KingdomHazARd v3.0\obj\Debug\Assembly-CSharp.pdb
